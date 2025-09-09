@@ -4,6 +4,8 @@
 This case study analyzes **Ford Motor Company’s supply chain operations**, covering sourcing, manufacturing, logistics, and risk management.  
 The objective was to evaluate alignment with Ford’s strategic goals and identify challenges/opportunities in a rapidly changing industry.
 
+Presented by me and my friend, as this was a group assignment 
+
 ---
 
 ## Key Focus Areas
